@@ -1,0 +1,16 @@
+PODS:
+  - Objection (1.6.1)
+
+DEPENDENCIES:
+  - Objection
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Objection
+
+SPEC CHECKSUMS:
+  Objection: ed03f2219cb22d2b5b893114219fe6c7e3263bde
+
+PODFILE CHECKSUM: 9cac2bcb5a09b278322104ac871b6de72d28b6a8
+
+COCOAPODS: 1.5.3
